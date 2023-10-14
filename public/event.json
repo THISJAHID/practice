@@ -1,0 +1,215 @@
+[
+    
+
+
+    {
+        "category": "Birthday",
+        "icon" : "https://i.postimg.cc/tCjtsJsg/77157.png",
+       
+        "posts": [
+            {
+                "id": 1,
+                "title": "Birthday Cake",
+                "description": "A delicious vanilla birthday cake with colorful frosting and candles.",
+                "price": 29.99,
+                "image": "https://i.postimg.cc/gcT3Bd41/download.jpg"
+            },
+            {
+                "id": 2,
+                "title": "Party Balloons",
+                "description": "A set of 10 colorful helium balloons to decorate your birthday party.",
+                "price": 9.99,
+                "image": "https://i.postimg.cc/HsM8ZMr7/colorful-aesthetic-happy-birthday-party-balloons-ii6qw4ig0uutv068.jpg"
+            },
+            {
+                "id": 3,
+                "title": "Birthday Card",
+                "description": "A heartfelt birthday card with a lovely message for your loved one.",
+                "price": 3.99,
+                "image": "https://i.postimg.cc/RhgdgbX9/download.jpg"
+            },
+            {
+                "id": 4,
+                "title": "Birthday Party Hat",
+                "description": "A festive birthday party hat with bright colors and a fun design.",
+                "price": 2.49,
+                "image": "https://i.postimg.cc/VsKFQpWP/Fruity-Party-Hats-by-Gail-Armstrong-580x754.webp"
+            },
+            {
+                "id": 5,
+                "title": "Birthday Gift Basket",
+                "description": "A beautifully wrapped gift basket filled with chocolates and goodies.",
+                "price": 39.99,
+                "image": "https://i.postimg.cc/nh3sCfMn/Birthday-Gift-Basket-for-ten.jpg"
+            },
+            {
+                "id": 6,
+                "title": "Party Streamers",
+                "description": "Colorful party streamers to add a festive touch to your birthday celebration.",
+                "price": 5.99,
+                "image": "https://i.postimg.cc/gjyjpffF/71-ZFw-Fa-A8-UL.jpg"
+            },
+            {
+                "id": 7,
+                "title": "Birthday Party Invitations",
+                "description": "Set of 20 birthday party invitations with envelopes for your guests.",
+                "price": 12.99,
+                "image": "https://i.postimg.cc/gJ8kyCcX/image4-compressed.webp"
+            },
+            {
+                "id": 8,
+                "title": "Birthday Sparklers",
+                "description": "Sparkling birthday candles to light up the cake with a dazzling display.",
+                "price": 4.99,
+                "image": "https://i.postimg.cc/J414JYf0/birthday-cake-sparklers.webp"
+            },
+            {
+                "id": 9,
+                "title": "Birthday Banner",
+                "description": "A large, colorful birthday banner to hang up and celebrate the special day.",
+                "price": 7.99,
+                "image": "https://i.postimg.cc/cCL213zx/istockphoto-1250218439-612x612.jpg"
+            }
+        ]
+    },
+    {
+        "category": "Anniversary",
+        "icon" : "https://i.postimg.cc/XqkZGwJc/images-removebg-preview.png",
+        "posts": [
+            {
+                "id": 10,
+                "title": "Anniversary Gift Set",
+                "description": "A curated gift set perfect for celebrating anniversaries, including chocolates, wine, and a personalized card.",
+                "price": 59.99,
+                "image": "https://i.postimg.cc/jdGgmBRd/Screenshot2022-07-04at7-33-48-AM.webp"
+            },
+            {
+                "id": 11,
+                "title": "Anniversary Jewelry",
+                "description": "Exquisite anniversary jewelry, featuring a necklace and earrings with elegant gemstones.",
+                "price": 499.99,
+                "image": "https://i.postimg.cc/yNTLJdck/il-fullxfull-4819512431-gzug.jpg"
+            },
+            {
+                "id": 12,
+                "title": "Anniversary Dinner Reservation",
+                "description": "A romantic dinner reservation at a fine dining restaurant to celebrate your special day.",
+                "price": 129.99,
+                "image": "https://i.postimg.cc/yxRQ8TPz/80751681.webp"
+            },
+            {
+                "id": 13,
+                "title": "Anniversary Photo Album",
+                "description": "A beautifully crafted photo album to store and cherish your memories from the years together.",
+                "price": 39.99,
+                "image": "https://i.postimg.cc/28wdFJ3K/Blog-43-Banner-2.jpg"
+            },
+            {
+                "id": 14,
+                "title": "Anniversary Champagne",
+                "description": "A bottle of premium champagne to toast to your special milestone together.",
+                "price": 59.99,
+                "image": "https://i.postimg.cc/15f6wthf/64cd0fba97642825e45bd1f91a1f154a.jpg"
+            },
+            {
+                "id": 15,
+                "title": "Anniversary Spa Package",
+                "description": "A relaxing spa package for couples to unwind and pamper themselves on their anniversary.",
+                "price": 199.99,
+                "image": ""
+            },
+            {
+                "id": 16,
+                "title": "Anniversary Flowers",
+                "description": "A bouquet of fresh anniversary flowers with a mix of roses and lilies for a romantic gesture.",
+                "price": 49.99,
+                "image": "https://i.postimg.cc/HkgRvj0k/Why-choose-flowers-as-a-wedding-anniversary-gift-1024x683.webp"
+            },
+            {
+                "id": 17,
+                "title": "Anniversary Getaway",
+                "description": "A weekend getaway package to a scenic location to celebrate your anniversary in style.",
+                "price": 799.99,
+                "image": "https://i.postimg.cc/x1npyhYk/5-Anniversary-Getaway-Ideas-That-Wont-Put-You-in-Debt.jpg"
+            },
+            {
+                "id": 18,
+                "title": "Anniversary Candles",
+                "description": "Set of scented anniversary candles to create a romantic ambiance for your celebration.",
+                "price": 19.99,
+                "image": "https://i.postimg.cc/GtjGcMfN/hct102-happy-anniversary-cake-topper-plus-heart-shaped-candle-original-imag23gggyvd7vvc.webp"
+            }
+        ]
+    },
+
+    {
+        "category": "Wedding",
+        "icon" : "https://i.postimg.cc/rpJ9TkVp/3074060.png",
+       
+        "posts": [
+            {
+                "id": 19,
+                "title": "Wedding Cake",
+                "description": "A multi-tiered wedding cake with elegant floral decorations.",
+                "price": 399.99,
+                "image": "https://i.postimg.cc/661BPVT5/933463849c18e0da2e8cff2683559ed9.webp"
+            },
+            {
+                "id": 20,
+                "title": "Bridal Gown",
+                "description": "A beautiful lace bridal gown with a long train and veil.",
+                "price": 1499.99,
+                "image": "https://i.postimg.cc/pdGqYdXr/AL-helenafront.webp"
+            },
+            {
+                "id": 21,
+                "title": "Wedding Rings Set",
+                "description": "Matching wedding rings set with diamonds in white gold.",
+                "price": 1999.99,
+                "image": "https://i.postimg.cc/gJh8Xcxf/gold-wedding-rings.jpg"
+            },
+            {
+                "id": 22,
+                "title": "Wedding  Cake",
+                "description": "A delicious Wedding cake with colorful frosting and candles.",
+                "price": 29.99,
+                "image": "https://i.postimg.cc/YSYCQvxf/i-Stock-1315185715-bride-and-groom-cut-cake.webp"
+            },
+            {
+                "id": 23,
+                "title": "Wedding Venue",
+                "description": "A luxurious wedding venue with a garden and ballroom.",
+                "price": 6999.99,
+                "image": "https://i.postimg.cc/NfkV2BT9/website-shadowbrook-nj-wedding-photos-7153-photography-by-SUESS-MOMENTS.webp"
+            },
+            {
+                "id": 24,
+                "title": "Wedding Invitations",
+                "description": "Custom-designed wedding invitations with matching envelopes.",
+                "price": 149.99,
+                "image": "https://i.postimg.cc/rscjqRfh/page.webp"
+            },
+            {
+                "id": 25,
+                "title": "Party Balloons",
+                "description": "A set of 10 colorful helium balloons to decorate your wedding or birthday party.",
+                "price": 9.99,
+                "image": "https://i.postimg.cc/8zFRQb1p/75209ed0bd40697956e4528c6df1a60b.jpg"
+            },
+            {
+                "id": 26,
+                "title": "Wedding Photography Package",
+                "description": "Professional photography package to capture your special day.",
+                "price": 2499.99,
+                "image": "https://i.postimg.cc/R0BL7HBv/file-1662580814020-15-79716-166258081557035.jpg"
+            },
+            {
+                "id": 27,
+                "title": "Wedding Floral Arrangements",
+                "description": "Elegant floral arrangements for centerpieces and bouquets.",
+                "price": 349.99,
+                "image": "https://i.postimg.cc/hvsjfhB4/Sam-Matt00560-thumb.jpg"
+            }
+        ]
+    }
+]
